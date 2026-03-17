@@ -1,0 +1,10 @@
+kagglehub
+boto3
+python-dotenv
+pyspark==3.5.1
+pandas
+pyarrow
+apache-airflow-providers-apache-spark
+apache-airflow-providers-amazon
+apache-airflow-providers-snowflake
+snowflake-connector-python
