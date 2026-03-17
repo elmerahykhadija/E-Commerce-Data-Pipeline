@@ -1,12 +1,4 @@
 # E-Commerce Data Pipeline
-![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-2.7+-red.svg)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-3.5.0-orange.svg)
-![AWS S3](https://img.shields.io/badge/AWS%20S3-Data%20Lake-yellow.svg)
-![Snowflake](https://img.shields.io/badge/Snowflake-Data%20Warehouse-blue.svg)
-![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED.svg)
-![Medallion Architecture](https://img.shields.io/badge/Architecture-Medallion%20(Bronze%2FSilver%2FGold)-purple.svg)
-![ETL Pipeline](https://img.shields.io/badge/Pipeline-ETL-green.svg)
 ### Medallion Architecture with Airflow, Spark, AWS S3, and Snowflake
 
 ---
